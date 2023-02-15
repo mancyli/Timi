@@ -58,10 +58,18 @@
 		4CEBE3A0299CBB34008D6195 /* Timi */ = {
 			isa = PBXGroup;
 			children = (
+				4CEBE3A9299CC0D4008D6195 /* Classes */,
 				4CEBE3A8299CBDE2008D6195 /* Resources */,
 				4CEBE3A1299CBB34008D6195 /* main.cpp */,
 			);
 			path = Timi;
+			sourceTree = "<group>";
+		};
+		4CEBE3A9299CC0D4008D6195 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
